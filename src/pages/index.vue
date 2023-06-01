@@ -97,6 +97,9 @@ onMounted(() => {
         </svg>
         <span>View on Github</span>
       </a>
+      <av-waveform
+      audio-src="/src/svg/blues.00000.wav"
+      ></av-waveform>
     </div>
   </main>
 
